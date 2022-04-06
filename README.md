@@ -1,2 +1,2 @@
 # Embedded-System-Course
-My curse lesson
+My curse lessons
